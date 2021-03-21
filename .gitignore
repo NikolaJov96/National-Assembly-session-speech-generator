@@ -1,0 +1,8 @@
+# Ignore scraped data
+/sessions*
+
+# Ignore trained model data
+/model*
+
+# Ignore Python cache data
+/__pycache__
